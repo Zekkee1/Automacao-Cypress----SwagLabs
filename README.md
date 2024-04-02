@@ -17,7 +17,7 @@ este projeto utiliza o padrão page objects.
 </ul>
 
 ## Preview
-  ### cenários - Login
+  ### cenário - Login
   <ul>
   <li>usuario deve efetuar o login</li>
   <li>mensagem de erro de usuario invalido</li>
@@ -26,7 +26,7 @@ este projeto utiliza o padrão page objects.
   </ul>
 <img src="https://user-images.githubusercontent.com/99279134/183143011-ffbda6e5-ec6c-41b9-b7e8-337586598a24.gif" >
 
-### cenários - Compra
+### cenário - Compra
   <ul>
   <li>adicionar produto ao carrinho</li>
   <li>realizar compra</li>
